@@ -158,7 +158,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"number\": {{$randomInt}},\r\n    \"name\": \"{{$randomLoremText}}\",\r\n    \"description\": \"{{$randomLoremText}}\"\r\n}",
+					"raw": "{\r\n    \"number\": {{$randomInt}},\r\n    \"name\": \"Texte par défaut\",\r\n    \"description\": \"Texte par défaut\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
